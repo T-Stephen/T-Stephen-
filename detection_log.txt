@@ -1,0 +1,327 @@
+Ambulance detected at 2025-07-18 12:04:09.845709
+Ambulance detected at 2025-07-18 12:04:21.551837
+Ambulance detected at 2025-07-18 12:04:21.951537
+Ambulance detected at 2025-07-18 12:04:22.156443
+Ambulance detected at 2025-07-18 12:04:22.568458
+Ambulance detected at 2025-07-18 12:04:23.494355
+Ambulance detected at 2025-07-18 12:04:23.998589
+Ambulance detected at 2025-07-18 12:04:26.725190
+Ambulance detected at 2025-07-18 12:04:42.049620
+Ambulance detected at 2025-07-18 12:04:42.545433
+Ambulance detected at 2025-07-18 12:04:43.242737
+Ambulance detected at 2025-07-18 12:04:43.929597
+18-07-2025 12:12:03 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:03 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:04 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:05 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:05 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:05 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:06 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:06 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:06 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:06 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:07 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:07 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:07 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:08 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:08 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:08 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:08 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:08 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:09 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:09 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:09 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:10 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:15 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:15 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:21 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:21 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:21 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:21 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:22 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:23 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:24 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:24 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:24 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:25 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:25 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:25 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:25 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:26 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:26 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:26 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:27 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:27 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:27 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:28 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:28 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:29 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:29 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:29 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:29 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:30 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:30 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:30 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:30 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:32 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:32 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:34 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:34 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:34 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:34 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:36 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:36 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:37 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:37 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:38 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:40 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:41 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:41 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:41 - No Ambulance - Red Signal Activated
+18-07-2025 12:12:41 - Ambulance Detected - Green Signal Activated
+18-07-2025 12:12:41 - No Ambulance - Red Signal Activated
+Ambulance detected at 2025-07-18 12:21:55.402985
+Ambulance detected at 2025-07-18 12:21:55.525076
+Ambulance detected at 2025-07-18 12:21:55.649554
+Ambulance detected at 2025-07-18 12:21:55.771753
+Ambulance detected at 2025-07-18 12:21:55.893168
+Ambulance detected at 2025-07-18 12:21:56.018192
+Ambulance detected at 2025-07-18 12:21:56.141054
+Ambulance detected at 2025-07-18 12:21:56.270292
+Ambulance detected at 2025-07-18 12:21:56.391901
+Ambulance detected at 2025-07-18 12:21:56.519124
+Ambulance detected at 2025-07-18 12:21:56.641865
+Ambulance detected at 2025-07-18 12:21:56.770932
+Ambulance detected at 2025-07-18 12:21:56.894487
+Ambulance detected at 2025-07-18 12:21:57.020926
+Ambulance detected at 2025-07-18 12:21:57.143859
+Ambulance detected at 2025-07-18 12:21:57.282860
+Ambulance detected at 2025-07-18 12:21:57.405866
+Ambulance detected at 2025-07-18 12:21:57.528570
+Ambulance detected at 2025-07-18 12:21:59.726903
+Ambulance detected at 2025-07-18 12:22:01.238826
+Ambulance detected at 2025-07-18 12:22:01.367688
+Ambulance detected at 2025-07-18 12:22:01.738183
+Ambulance detected at 2025-07-18 12:22:02.110400
+Ambulance detected at 2025-07-18 12:22:02.237827
+Ambulance detected at 2025-07-18 12:22:02.361952
+Ambulance detected at 2025-07-18 12:22:06.141226
+Ambulance detected at 2025-07-18 12:22:06.265989
+Ambulance detected at 2025-07-18 12:22:06.393531
+Ambulance detected at 2025-07-18 12:22:06.764855
+Ambulance detected at 2025-07-18 12:22:06.890721
+Ambulance detected at 2025-07-18 12:22:07.992417
+Ambulance detected at 2025-07-18 12:22:08.237220
+Ambulance detected at 2025-07-18 12:22:08.611650
+Ambulance detected at 2025-07-18 12:22:08.731983
+Ambulance detected at 2025-07-18 12:22:08.856391
+Ambulance detected at 2025-07-18 12:22:08.985989
+Ambulance detected at 2025-07-18 12:22:09.110176
+Ambulance detected at 2025-07-18 12:22:09.603269
+Ambulance detected at 2025-07-18 12:22:09.727593
+Ambulance detected at 2025-07-18 12:22:09.847971
+Ambulance detected at 2025-07-18 12:22:09.973409
+Ambulance detected at 2025-07-18 12:22:10.098097
+Ambulance detected at 2025-07-18 12:22:10.225585
+Ambulance detected at 2025-07-18 12:22:10.352276
+Ambulance detected at 2025-07-18 12:22:10.478808
+Ambulance detected at 2025-07-18 12:22:10.601380
+Ambulance detected at 2025-07-18 12:22:10.728078
+Ambulance detected at 2025-07-18 12:22:10.853407
+Ambulance detected at 2025-07-18 12:22:10.977903
+Ambulance detected at 2025-07-18 12:22:11.102640
+Ambulance detected at 2025-07-18 12:22:17.473137
+Ambulance detected at 2025-07-18 12:22:17.596194
+Ambulance detected at 2025-07-18 12:22:18.332608
+Ambulance detected at 2025-07-18 12:22:18.461361
+Ambulance detected at 2025-07-18 12:22:18.585963
+Ambulance detected at 2025-07-18 12:22:18.708523
+Ambulance detected at 2025-07-18 12:22:19.086169
+Ambulance detected at 2025-07-18 12:22:20.327052
+Ambulance detected at 2025-07-18 12:22:20.453525
+Ambulance detected at 2025-07-18 12:22:20.703119
+Ambulance detected at 2025-07-18 12:22:20.825630
+Ambulance detected at 2025-07-18 12:22:20.950850
+Ambulance detected at 2025-07-18 12:22:21.084258
+Ambulance detected at 2025-07-18 12:22:21.213141
+Ambulance detected at 2025-07-18 12:22:21.342261
+Ambulance detected at 2025-07-18 12:22:21.467052
+Ambulance detected at 2025-07-18 12:22:21.595862
+Ambulance detected at 2025-07-18 12:22:22.103763
+Ambulance detected at 2025-07-18 12:22:22.228389
+Ambulance detected at 2025-07-18 12:22:22.356099
+Ambulance detected at 2025-07-18 12:22:22.482236
+Ambulance detected at 2025-07-18 12:22:22.980057
+Ambulance detected at 2025-07-18 12:22:23.103999
+Ambulance detected at 2025-07-18 12:22:23.236193
+Ambulance detected at 2025-07-18 12:22:23.364290
+Ambulance detected at 2025-07-18 12:22:23.490998
+Ambulance detected at 2025-07-18 12:22:23.617281
+Ambulance detected at 2025-07-18 12:22:23.740964
+Ambulance detected at 2025-07-18 12:22:23.867823
+Ambulance detected at 2025-07-18 12:22:23.999502
+Ambulance detected at 2025-07-18 12:22:24.123260
+Ambulance detected at 2025-07-18 12:22:24.248077
+Ambulance detected at 2025-07-18 12:22:24.375979
+Ambulance detected at 2025-07-18 12:22:24.502319
+Ambulance detected at 2025-07-18 12:22:24.627118
+Ambulance detected at 2025-07-18 12:22:24.753904
+Ambulance detected at 2025-07-18 12:22:24.882093
+Ambulance detected at 2025-07-18 12:22:25.008275
+Ambulance detected at 2025-07-18 12:22:25.135550
+Ambulance detected at 2025-07-18 12:22:25.265236
+Ambulance detected at 2025-07-18 12:22:25.394151
+Ambulance detected at 2025-07-18 12:22:25.519282
+Ambulance detected at 2025-07-18 12:22:25.773990
+Ambulance detected at 2025-07-18 12:22:25.900742
+Ambulance detected at 2025-07-18 12:22:26.024698
+Ambulance detected at 2025-07-18 12:22:26.148167
+Ambulance detected at 2025-07-18 12:22:26.282090
+Ambulance detected at 2025-07-18 12:22:26.408685
+Ambulance detected at 2025-07-18 12:22:26.650455
+Ambulance detected at 2025-07-18 12:22:26.775095
+Ambulance detected at 2025-07-18 12:22:27.020118
+Ambulance detected at 2025-07-18 12:22:29.630856
+Ambulance detected at 2025-07-18 12:22:31.618834
+Ambulance detected at 2025-07-18 12:22:31.748127
+Ambulance detected at 2025-07-18 12:22:31.994557
+Ambulance detected at 2025-07-18 12:22:32.123940
+Ambulance detected at 2025-07-18 12:22:32.247189
+Ambulance detected at 2025-07-18 12:22:32.373662
+Ambulance detected at 2025-07-18 12:22:32.499264
+Ambulance detected at 2025-07-18 12:22:32.623494
+Ambulance detected at 2025-07-18 12:22:32.750221
+Ambulance detected at 2025-07-18 12:22:32.893536
+Ambulance detected at 2025-07-18 12:22:33.019146
+Ambulance detected at 2025-07-18 12:22:33.144824
+Ambulance detected at 2025-07-18 12:22:33.271866
+Ambulance detected at 2025-07-18 12:22:35.137181
+Ambulance detected at 2025-07-18 12:22:35.265920
+Ambulance detected at 2025-07-18 12:22:35.391088
+Ambulance detected at 2025-07-18 12:22:35.515384
+Ambulance detected at 2025-07-18 12:22:35.636936
+Ambulance detected at 2025-07-18 12:22:35.765213
+Ambulance detected at 2025-07-18 12:22:35.892235
+Ambulance detected at 2025-07-18 12:22:36.018819
+Ambulance detected at 2025-07-18 12:22:36.147928
+Ambulance detected at 2025-07-18 12:22:36.277365
+Ambulance detected at 2025-07-18 12:22:36.400880
+Ambulance detected at 2025-07-18 12:22:36.530119
+Ambulance detected at 2025-07-18 12:22:36.658034
+Ambulance detected at 2025-07-18 12:22:36.781955
+Ambulance detected at 2025-07-18 12:22:36.911061
+Ambulance detected at 2025-07-18 12:22:37.037535
+Ambulance detected at 2025-07-18 12:22:37.160251
+Ambulance detected at 2025-07-18 12:22:37.291234
+Ambulance detected at 2025-07-18 12:22:37.415985
+Ambulance detected at 2025-07-18 12:22:37.542862
+Ambulance detected at 2025-07-18 12:22:37.667175
+Ambulance detected at 2025-07-18 12:22:37.794091
+Ambulance detected at 2025-07-18 12:22:37.918266
+Ambulance detected at 2025-07-18 12:22:38.049171
+Ambulance detected at 2025-07-18 12:22:38.176479
+Ambulance detected at 2025-07-18 12:22:38.304598
+Ambulance detected at 2025-07-18 12:22:38.429501
+Ambulance detected at 2025-07-18 12:22:38.557932
+Ambulance detected at 2025-07-18 12:22:38.678548
+Ambulance detected at 2025-07-18 12:22:38.807337
+Ambulance detected at 2025-07-18 12:22:38.933705
+Ambulance detected at 2025-07-18 12:22:39.061278
+Ambulance detected at 2025-07-18 12:22:39.192308
+Ambulance detected at 2025-07-18 12:22:39.321127
+Ambulance detected at 2025-07-18 12:22:39.443472
+Ambulance detected at 2025-07-18 12:22:39.571784
+Ambulance detected at 2025-07-18 12:22:39.698156
+Ambulance detected at 2025-07-18 12:22:39.826490
+Ambulance detected at 2025-07-18 12:22:39.956374
+Ambulance detected at 2025-07-18 12:22:40.083557
+Ambulance detected at 2025-07-18 12:22:40.208245
+Ambulance detected at 2025-07-18 12:22:40.339665
+Ambulance detected at 2025-07-18 12:22:40.465664
+Ambulance detected at 2025-07-18 12:22:40.595717
+Ambulance detected at 2025-07-18 12:22:40.720090
+Ambulance detected at 2025-07-18 12:22:40.844566
+Ambulance detected at 2025-07-18 12:22:40.969834
+Ambulance detected at 2025-07-18 12:22:41.098049
+Ambulance detected at 2025-07-18 12:22:41.225277
+Ambulance detected at 2025-07-18 12:22:41.355333
+Ambulance detected at 2025-07-18 12:22:41.481520
+Ambulance detected at 2025-07-18 12:22:41.608875
+Ambulance detected at 2025-07-18 12:22:41.732087
+Ambulance detected at 2025-07-18 12:22:41.861330
+Ambulance detected at 2025-07-18 12:23:13.674200
+Ambulance detected at 2025-07-18 12:23:13.800532
+Ambulance detected at 2025-07-18 12:23:14.304230
+Ambulance detected at 2025-07-18 12:23:14.428191
+Ambulance detected at 2025-07-18 12:23:14.552300
+Ambulance detected at 2025-07-18 12:23:14.677335
+Ambulance detected at 2025-07-18 12:23:14.802694
+Ambulance detected at 2025-07-18 12:23:14.922825
+Ambulance detected at 2025-07-18 12:23:15.051257
+Ambulance detected at 2025-07-18 12:23:15.175874
+Ambulance detected at 2025-07-18 12:23:15.311123
+Ambulance detected at 2025-07-18 12:23:15.443748
+Ambulance detected at 2025-07-18 12:23:15.571523
+Ambulance detected at 2025-07-18 12:23:15.696276
+Ambulance detected at 2025-07-18 12:23:15.826937
+Ambulance detected at 2025-07-18 12:23:15.951416
+Ambulance detected at 2025-07-18 12:23:16.083240
+Ambulance detected at 2025-07-18 12:23:16.209893
+Ambulance detected at 2025-07-18 12:23:16.338213
+Ambulance detected at 2025-07-18 12:23:16.464167
+Ambulance detected at 2025-07-18 12:23:16.593553
+Ambulance detected at 2025-07-18 12:23:16.718066
+Ambulance detected at 2025-07-18 12:23:16.848549
+Ambulance detected at 2025-07-18 12:23:16.975846
+Ambulance detected at 2025-07-18 12:23:17.101629
+Ambulance detected at 2025-07-18 12:23:17.235672
+Ambulance detected at 2025-07-18 12:23:17.360459
+Ambulance detected at 2025-07-18 12:23:17.485340
+Ambulance detected at 2025-07-18 12:23:17.613430
+Ambulance detected at 2025-07-18 12:23:17.736636
+Ambulance detected at 2025-07-18 12:23:17.863222
+Ambulance detected at 2025-07-18 12:23:17.994086
+Ambulance detected at 2025-07-18 12:23:18.120065
+Ambulance detected at 2025-07-18 12:23:18.244729
+Ambulance detected at 2025-07-18 12:23:18.371096
+Ambulance detected at 2025-07-18 12:23:18.497334
+Ambulance detected at 2025-07-18 12:23:18.624444
+Ambulance detected at 2025-07-18 12:23:18.749992
+Ambulance detected at 2025-07-18 12:23:31.032901
+Ambulance detected at 2025-07-18 12:23:31.528332
+Ambulance detected at 2025-07-18 12:23:31.657742
+Ambulance detected at 2025-07-18 12:23:31.782900
+Ambulance detected at 2025-07-18 12:23:31.908244
+Ambulance detected at 2025-07-18 12:23:32.035758
+Ambulance detected at 2025-07-18 12:23:32.158981
+Ambulance detected at 2025-07-18 12:23:32.289203
+Ambulance detected at 2025-07-18 12:23:32.413539
+Ambulance detected at 2025-07-18 12:23:32.535015
+Ambulance detected at 2025-07-18 12:23:32.658397
+Ambulance detected at 2025-07-18 12:23:32.784972
+Ambulance detected at 2025-07-18 12:23:32.910558
+Ambulance detected at 2025-07-18 12:23:33.029965
+Ambulance detected at 2025-07-18 12:23:33.157920
+Ambulance detected at 2025-07-18 12:23:33.288575
+Ambulance detected at 2025-07-18 12:23:33.410985
+Ambulance detected at 2025-07-18 12:23:33.537347
+Ambulance detected at 2025-07-18 12:23:33.674369
+Ambulance detected at 2025-07-18 12:23:33.797252
+Ambulance detected at 2025-07-18 12:23:33.927364
+Ambulance detected at 2025-07-18 12:23:34.053242
+Ambulance detected at 2025-07-18 12:23:34.179150
+Ambulance detected at 2025-07-18 12:23:34.310334
+Ambulance detected at 2025-07-18 12:23:34.436733
+Ambulance detected at 2025-07-18 12:23:34.560631
+Ambulance detected at 2025-07-18 12:23:34.690432
+Ambulance detected at 2025-07-18 12:23:34.813631
+Ambulance detected at 2025-07-18 12:23:34.939385
+Ambulance detected at 2025-07-18 12:23:35.065955
+Ambulance detected at 2025-07-18 12:23:35.192908
+Ambulance detected at 2025-07-18 12:23:35.320108
+Ambulance detected at 2025-07-18 12:23:35.448935
+Ambulance detected at 2025-07-18 12:23:35.574373
+Ambulance detected at 2025-07-18 12:23:35.695947
+Ambulance detected at 2025-07-18 12:23:35.825238
+Ambulance detected at 2025-07-18 12:23:35.950117
+Ambulance detected at 2025-07-18 12:23:36.075311
